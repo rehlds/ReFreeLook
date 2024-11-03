@@ -1,4 +1,5 @@
-# ReFreeLook
+# [ReFreeLook](https://github.com/rehlds/ReFreeLook) [![Percentage of issues still open](http://isitmaintained.com/badge/open/rehlds/ReFreeLook.svg)](http://isitmaintained.com/project/rehlds/ReFreeLook "Percentage of issues still open") [![GitHub license](https://img.shields.io/github/license/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/issues) [![GitHub forks](https://img.shields.io/github/forks/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/network) [![GitHub stars](https://img.shields.io/github/stars/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/stargazers)
+
 AMX Mod X module whichs allows spectating admins to use any camera modes whatever `mp_forcecamera` or `mp_forcechasecam` value.
 This only works for latest [ReGameDLL_CS](https://github.com/s1lentq/ReGameDLL_CS) version.
 
