@@ -1,7 +1,7 @@
-# [ReFreeLook](https://github.com/rehlds/ReFreeLook) [![Percentage of issues still open](http://isitmaintained.com/badge/open/rehlds/ReFreeLook.svg)](http://isitmaintained.com/project/rehlds/ReFreeLook "Percentage of issues still open") [![GitHub license](https://img.shields.io/github/license/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/issues) [![GitHub forks](https://img.shields.io/github/forks/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/network) [![GitHub stars](https://img.shields.io/github/stars/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/stargazers)
+# [ReFreeLook](https://github.com/rehlds/ReFreeLook) [![Percentage of issues still open](http://isitmaintained.com/badge/open/rehlds/ReFreeLook.svg)](http://isitmaintained.com/project/rehlds/ReFreeLook "Percentage of issues still open") [![GitHub license](https://img.shields.io/github/license/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/issues) [![GitHub forks](https://img.shields.io/github/forks/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/network) [![GitHub stars](https://img.shields.io/github/stars/rehlds/ReFreeLook.svg?longCache=true&style=flat-square)](https://github.com/rehlds/ReFreeLook/stargazers)
 
 AMX Mod X module whichs allows spectating admins to use any camera modes whatever `mp_forcecamera` or `mp_forcechasecam` value.
-This only works for latest [ReGameDLL_CS](https://github.com/s1lentq/ReGameDLL_CS) version.
+This only works for latest [ReGameDLL_CS](https://github.com/rehlds/ReGameDLL_CS) version.
 
 Originally created by [Arkshine](https://github.com/Arkshine/AdminFreeLook).
 
@@ -46,7 +46,7 @@ Originally created by [Arkshine](https://github.com/Arkshine/AdminFreeLook).
 
 ##Installation
 
-1. Make sure that you have ReGameDLL_CS, more details [here](https://github.com/s1lentq/ReGameDLL_CS#how-can-use-it).
+1. Make sure that you have ReGameDLL_CS, more details [here](https://github.com/rehlds/ReGameDLL_CS#how-can-use-it).
 2. Stop your server whatever it's your first install or just updating.
 3. From [Releases section](https://github.com/s1lentq/ReFreeLook/releases/latest), get the binary file you need:
 <table>
